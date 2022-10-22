@@ -43,7 +43,7 @@ UEFI官方网站 [UEFI](https://uefi.org) 。
 
 ## 计划
 
-下一个完成的部分`Filesys`。
+下一个完成的部分`Shell`。
 
 ## 反馈
 
