@@ -1,4 +1,4 @@
-#include "./Include/Uefi.h"
+#include "../Include/Uefi.h"
 
 #define LetterWidth 20
 #define LetterHeight 36

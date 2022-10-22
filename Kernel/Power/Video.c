@@ -1,4 +1,4 @@
-#include "Video.h"
+#include "./Video.h"
 
 BMP_CONFIG *AsciiBmp;
 UINT32 *AsciiStart;
