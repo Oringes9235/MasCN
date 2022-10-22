@@ -1,0 +1,8 @@
+power on
+
+uefi load to kernel.elf
+
+enter kernel.elf to draw a system LOGO and the progress barin the main screen
+
+The progress bar run out, enter or loading the shell
+

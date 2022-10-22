@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "*.c": "c",
+        "*.asm": "s",
+        "master-kernel.h": "c",
+        "shell-kernel.h": "c",
+        "uefi.h": "c",
+        "elf.h": "c",
+        "basememorylib.h": "c",
+        "sendlib.h": "c",
+        "stdarg.h": "c",
+        "string.h": "c",
+        "printfun.h": "c",
+        "chrono": "c",
+        "xiosbase": "c",
+        "ratio": "c",
+        "stdio.h": "c",
+        "master.h": "c",
+        "memory.h": "c",
+        "video.h": "c",
+        "file.h": "c"
+    }
+}

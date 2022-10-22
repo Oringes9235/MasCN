@@ -1,0 +1,9 @@
+*.elf
+*.o
+*.exe
+*.efi
+*.out
+*.app
+*.bin
+
+/kernel/OVMF
