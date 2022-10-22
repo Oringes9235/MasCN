@@ -1,10 +1,10 @@
-<img src="https://github.com/Oringe9235/Oringe9235.github.io/blob/master/images/MasCNLogo.png">
+<img src="https://github.com/Oringes9235/Oringes9235.github.io/blob/master/images/MasCNLogo.png">
 
 # MasCN
 
-<img src="https://github.com/Oringe9235/Oringe9235.github.io/blob/master/images/license.svg">
+<img src="https://github.com/Oringes9235/Oringes9235.github.io/blob/master/images/license.svg">
 
-**Language:** English | [中文](https://github.com/Oringe9235/MasCN/blob/master/README-zh-cn.md) 
+**Language:** English | [中文](https://github.com/Oringes9235/MasCN/blob/master/README-zh-cn.md) 
 
 ## Basic information
 
@@ -42,7 +42,7 @@ UEFI's msater website [UEFI](https://uefi.org) .
 
 ## Code style
 
-The `doc` file for code style, you can go to see the [`Code-style`](https://github.com/Oringe9235/MasCN/blob/master/docs/kernel/Code-style.md/) file.
+The `doc` file for code style, you can go to see the [`Code-style`](https://github.com/Oringes9235/MasCN/blob/master/docs/kernel/Code-style.md/) file.
 
 ## Schedule
 
