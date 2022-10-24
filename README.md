@@ -10,7 +10,7 @@
 
 `MasCN` is an **embedded systems**, it can running in `x86_64`. And it's also a 64-bits operating system kernel.
 
-It is development began in the Apr 22, 2022. It is an open-source project of [GUN](https://www.gun.org).
+It is development began in the Apr 22, 2022. It is an open-source project of [GNU](https://www.gnu.org).
 
 The operating system kernel has several sections, such as: `kernel`, `user`and so on.
 
